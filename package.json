@@ -1,0 +1,16 @@
+{
+  "name": "nithya1405.github.io",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000i\u0000t\u0000h\u0000y\u0000a\u00001\u00004\u00000\u00005\u0000.\u0000g\u0000i\u0000t\u0000h\u0000u\u0000b\u0000.\u0000i\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "tailwind":"npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.17",
+    "tailwindcss": "^4.1.17"
+  }
+}
